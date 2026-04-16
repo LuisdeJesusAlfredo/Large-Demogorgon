@@ -28,6 +28,7 @@ This is the main animatronic made by my team for the *17th Mexican Robotic Tourn
 - Connect the motor to OUT1 and OUT1.
 
 **LIMITATIONS**
+
 Check the total weight of the robotic arm, as this can cause problems with the motor's rotation angle.
 
 **IMPROVEMENTS:**
