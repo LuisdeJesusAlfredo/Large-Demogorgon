@@ -31,3 +31,9 @@ This is the main animatronic made by my team for the *17th Mexican Robotic Tourn
 **IMPROVEMENTS:**
 
 Speed and stability.
+
+CHECK OUT FOR THE OTHR PROJECTS THAT WE MADE!
+
+[Mini Demogorgons](https://github.com/LuisdeJesusAlfredo/Mini-Demogorgons)
+
+[Will & Dustin](https://github.com/LuisdeJesusAlfredo/Will-Dustin)
