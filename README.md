@@ -4,13 +4,12 @@
 
 [Large Demogorgon]<img width="1129" height="1509" alt="Large Demogorgon" src="https://github.com/user-attachments/assets/703ccb7d-eb46-436b-aceb-9c5b85b475bb" />
 
-
 This is the main animatronic made by my team for the *17th Mexican Robotic Tournament* part of the **Robocup2026**. The *LARGE DEMOGORGON* is a tri-motorized robot build by 2 servomotor SG-90 and a gear motor for the boy rotation.
 
 **MATERIALS:**
 
 - 2 Arduino Uno R3,
-- 1 H-bridge,
+- 1 H-bridge - *like L298N module*,
 - Jumper Wires,
 - 1 Gearmotor,
 - 9V Battery,
@@ -28,11 +27,14 @@ This is the main animatronic made by my team for the *17th Mexican Robotic Tourn
 - Bridge the GND and 5V lines from the H-bridge to the Arduino.
 - Connect the motor to OUT1 and OUT1.
 
+**LIMITATIONS**
+Check the total weight of the robotic arm, as this can cause problems with the motor's rotation angle.
+
 **IMPROVEMENTS:**
 
-Speed and stability.
+We further want to develop more speed and stability.
 
-CHECK OUT FOR THE OTHR PROJECTS THAT WE MADE!
+CHECK OUT FOR THE OTHER PROJECTS THAT WE MADE!
 
 [Mini Demogorgons](https://github.com/LuisdeJesusAlfredo/Mini-Demogorgons)
 
